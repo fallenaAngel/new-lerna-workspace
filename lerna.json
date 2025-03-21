@@ -4,8 +4,7 @@
   "command": {
     "version": {
       "changelog": true,
-      "changelogPreset": "angular",
-      "exact": true
+      "changelogPreset": "conventionalcommits"
     }
   }
 }
